@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deux piliers et un portail à barreaux -->
+    <path android:fillColor="#FFFFFF" android:pathData="M30,38h6v36h-6zM72,38h6v36h-6z" />
+    <path android:fillColor="#7FD1FF" android:pathData="M38,46h32v4h-32zM38,66h32v4h-32zM41,50h3v16h-3zM48,50h3v16h-3zM57,50h3v16h-3zM64,50h3v16h-3z" />
+</vector>
